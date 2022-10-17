@@ -1,0 +1,55 @@
+body{
+    list-style: none;
+    max-width: 1000px;
+    min-height: 1000px;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-container img{
+    width: 200px;
+    height: 200px;
+}
+
+.left-content{
+    background: #003147;
+    padding: 40px;
+    width: 40%;
+}
+
+.left-content h2{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.left-content h4{
+    font-size: 1.2em;
+    font-weight: 300;
+}
+
+.contact-container h4{
+    font-weight: 600;
+
+}
+
+.icon i{
+    color: #03A9F4;
+}
+
+li{
+    list-style-type: none;
+    margin-left: -40px;
+}
+
+.faculdade h6{
+    color: #03A9F4;
+}
+
+.faculdade h5{
+    font-size: 1.2em;
+}
+
+.right-container{
+    background-color: #fff;
+    padding: 40px;
+}

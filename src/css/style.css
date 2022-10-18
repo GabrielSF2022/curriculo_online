@@ -1,6 +1,6 @@
 body{
     list-style: none;
-    min-height: 1000px;
+    min-height: 900px;
 }
 
 .left-container img{
@@ -42,7 +42,11 @@ li{
 }
 
 .faculdade h5{
-    font-size: 1.2em;
+    font-size: 12px;
+}
+
+.idiomas-container li{
+    font-size: 12px;
 }
 
 .right-container{
@@ -74,4 +78,21 @@ li{
 .certificacoes p{
     font-weight: 600;
     font-size: 1.1em;
+}
+
+.contact-container span{
+    font-size: 12px;
+}
+
+.right-content .name{
+    max-width: 250px;
+}
+
+.right-content .date h6{
+    color: #848C90;
+}
+
+.right-content .name h6{
+    color: #03A9F4;
+    text-transform: uppercase;
 }

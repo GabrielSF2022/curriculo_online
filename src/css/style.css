@@ -1,9 +1,6 @@
 body{
     list-style: none;
-    max-width: 1000px;
     min-height: 1000px;
-    justify-content: center;
-    align-items: center;
 }
 
 .left-container img{
@@ -14,7 +11,6 @@ body{
 .left-content{
     background: #003147;
     padding: 40px;
-    width: 40%;
 }
 
 .left-content h2{
@@ -52,4 +48,30 @@ li{
 .right-container{
     background-color: #fff;
     padding: 40px;
+}
+
+.right-content h2{
+    color: #003147;
+}
+
+.right-content p{
+    color: #333;
+}
+
+.right-content h3{
+    color: #03A9F4;
+}
+
+.right-content h5{
+    color: #848C90;
+}
+
+.certificacoes i{
+    color:#03A9F4;
+    font-size: 24px;
+}
+
+.certificacoes p{
+    font-weight: 600;
+    font-size: 1.1em;
 }
